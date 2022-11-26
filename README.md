@@ -14,7 +14,7 @@
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
-[.psd link](https://drive.google.com/drive/folders/1WNiA0j9D6Bn2ALtEAIgv1_nzpSOon0Fe)
+[.psd link](https://drive.google.com/drive/folders/1HYn9ApnPczxaYquiDl5LUDq1BTRfDfa7)
 
 <!-- please enter link to preview designs -->
 
