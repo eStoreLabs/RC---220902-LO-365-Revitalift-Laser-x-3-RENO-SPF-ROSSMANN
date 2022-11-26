@@ -1,4 +1,4 @@
-# Revitalift-Laser-x-3-RENO-Day 220902-LO-365
+# Revitalift-Laser-x-3-RENO-SPF 220902-LO-365
 
 <!-- please enter project number recived from PM -->
 
@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site](https://estorelabs.github.io/RC---220902-LO-365-Revitalift-Laser-x-3-RENO-Day-ROSSMANN/Portals/0/rich-content/loreal/ean.html)
+[Project live site](https://github.com/eStoreLabs/RC---220902-LO-365-Revitalift-Laser-x-3-RENO-SPF-ROSSMANN/Portals/0/rich-content/loreal/ean.html)
 
 ## PROJECT PREVIEW
 
